@@ -2,7 +2,7 @@
 Perkenalkan nama saya **ALFANI**.\
 Saya seorang **WEB DEVELOPER** di [Boourac.com](https://boourac.com/).\
 Saya juga bertanggung jawab atas maintenance dari pada website [Goterrac.com](https://goterrac.com/).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Saya juga sedang menuntut ilmu di **UNIVERSITAS BINA SARANA INFORMATIKA** jurusan **TEKHNOLOGI INFORMASI**
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfani-ahmmadoel-haq-75640b249/)ku ya.
  
 <p align="left">
