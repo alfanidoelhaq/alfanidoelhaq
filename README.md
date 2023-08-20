@@ -1,10 +1,10 @@
 ## Halo semua👋 Perkenalkan nama saya **ALFANI**.
 ### ❤️❤️[AnakAyam](https://www.instagram.com/divasr_im20/)🐣
 
-:technologist:Saya seorang **WEB DEVELOPER** di [Boourac.com](https://boourac.com/).\
-🔧Saya juga bertanggung jawab atas maintenance dari pada website [Goterrac.com](https://goterrac.com/).\
-🎨Saya juga sedang menuntut ilmu di **UNIVERSITAS BINA SARANA INFORMATIKA** jurusan **TEKHNOLOGI INFORMASI**\
-🏷️Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfani-ahmmadoel-haq-75640b249/)ku ya.
+- :technologist:Saya seorang **WEB DEVELOPER** di [Boourac.com](https://boourac.com/).\
+- 🔧Saya juga bertanggung jawab atas maintenance dari pada website [Goterrac.com](https://goterrac.com/).\
+- 🎨Saya juga sedang menuntut ilmu di **UNIVERSITAS BINA SARANA INFORMATIKA** jurusan **TEKHNOLOGI INFORMASI**\
+- 🏷️Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfani-ahmmadoel-haq-75640b249/)ku ya.
  
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
