@@ -1,5 +1,4 @@
 ## Halo semua👋 Perkenalkan nama saya **ALFANI**.
-### ❤️❤️[AnakAyam](https://www.instagram.com/divasr_im20/)🐣
 
 - :technologist:Saya seorang **WEB DEVELOPER** di [Boourac.com](https://boourac.com/).
 - 🔧Saya juga bertanggung jawab atas maintenance dari pada website [Goterrac.com](https://goterrac.com/).
