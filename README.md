@@ -10,6 +10,7 @@
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" /></a>
   <a href="https://laravel.com/"><img align="left" alt="PHP" title="Laravel" width="25px" src="https://logospng.org/download/laravel/logo-laravel-1024.png" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254005/kotlin-icon-md.png" /></a>
   <br>
   <br>
   
